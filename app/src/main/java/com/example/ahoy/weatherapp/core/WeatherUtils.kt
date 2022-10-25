@@ -10,7 +10,6 @@ import android.location.Location
 import android.text.format.DateFormat
 import androidx.core.app.ActivityCompat
 import java.util.*
-import java.util.jar.Manifest
 
 
 object WeatherUtils {
@@ -67,13 +66,14 @@ object WeatherUtils {
     fun locationToCity(context: Context, location: Location): String {
         val geocoder = Geocoder(context, Locale.getDefault())
 
-        val addresses: List<Address> = geocoder.getFromLocation(location.latitude, location.longitude, 1)
+        val addresses: List<Address> =
+            geocoder.getFromLocation(location.latitude, location.longitude, 1)
         val address: String = addresses[0].getAddressLine(0)
         val city: String = addresses[0].getLocality()
         return city
     }
 
-    private fun checkLocationPermission(context: Context) {
+    fun checkLocationPermission(context: Context, callback: () -> Unit) {
         if (ActivityCompat.checkSelfPermission(
                 context,
                 android.Manifest.permission.ACCESS_FINE_LOCATION
@@ -104,6 +104,7 @@ object WeatherUtils {
                 requestLocationPermission(context)
             }
         } else {
+            callback.invoke()
         }
     }
 

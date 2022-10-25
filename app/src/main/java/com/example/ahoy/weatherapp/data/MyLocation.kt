@@ -25,6 +25,7 @@ class MyLocation constructor(var context: Context) {
         setLocationRequest()
         setLocationSettingRequest()
 //        setLocationCallback()
+
     }
 
     fun setLocationRequest() {
