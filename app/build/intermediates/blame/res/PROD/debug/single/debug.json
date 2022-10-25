@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_pressure.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\navigation_weather_nav_graph.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\navigation\\weather_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_privacy.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_sunrise.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_sunrise.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_menu_back.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\menu_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_temperature.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_appbackground.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_appbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_feel_like.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_feel_like.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_sunset.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_sunset.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_item_fivedays_weather.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\item_fivedays_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\xml_settings.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_fragment_five_days_weather.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\fragment_five_days_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_five_days.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_five_days.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_map.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_humidity.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\font_utopia.otf.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\font\\utopia.otf"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_right.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_menu_item_padding.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\menu_item_padding.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_menu_back_state.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\menu_back_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_wind.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_wind.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_rate_us.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_rate_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\layout_fragment_current_weather.xml.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\fragment_current_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\drawable_ic_drawer_header.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\drawable\\ic_drawer_header.png"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\res\\merged\\PROD\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

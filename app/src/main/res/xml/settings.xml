@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Units">
+
+        <ListPreference
+            android:defaultValue="METRIC"
+            android:entries="@array/unitSystemEntries"
+            android:entryValues="@array/unitSystemValues"
+            android:key="WEATHER_UNIT"
+            android:summary="%s"
+            android:title="Unit System" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

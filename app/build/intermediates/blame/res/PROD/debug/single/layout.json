@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\incremental\\mergePRODDebugResources\\stripped.dir\\layout\\item_fivedays_weather.xml",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\item_fivedays_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\incremental\\mergePRODDebugResources\\stripped.dir\\layout\\fragment_five_days_weather.xml",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\fragment_five_days_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\build\\intermediates\\incremental\\mergePRODDebugResources\\stripped.dir\\layout\\fragment_current_weather.xml",
+        "source": "C:\\Users\\waqas.m\\Downloads\\weather-app-master\\weather-app-master\\app\\src\\main\\res\\layout\\fragment_current_weather.xml"
+    }
+]
